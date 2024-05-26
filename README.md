@@ -1,4 +1,4 @@
-# End-to-End Machine Learning using AWS SageMaker Course
+# End-to-End Machine Learning using AWS SageMaker 
 
 ## Relevant Links
 
